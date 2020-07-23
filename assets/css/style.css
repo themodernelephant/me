@@ -1641,7 +1641,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
   background: rgba(255,255,255,0.2);
   padding: 35px;
-  border: 2px solid #fff;
+  border: 2px solid #000;
   border-radius: 20px/50px;
   background-clip: padding-bos;
   text-align: center;
@@ -1650,7 +1650,7 @@ h1, h2, h3, h4, h5, h6 {
 .button {
   font-size: 1em;
   padding: 10px;
-  color: #fff;
+  color: #000;
   border: 2px solid #06D85F;
   border-radius: 20px/50px;
   text-decoration: none;
@@ -1680,7 +1680,7 @@ h1, h2, h3, h4, h5, h6 {
 .popup {
   margin: 70px auto;
   padding: 20px;
-  background: #fff;
+  background: #000;
   border-radius: 5px;
   width: 30%;
   position: relative;
